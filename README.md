@@ -1,8 +1,4 @@
-Here’s a complete and professional `README.md` for your **FlashFlow** project, combining all your project info, features, technologies, design, and backend explanation:
 
----
-
-````markdown
 # ⚡ FlashFlow - (AI Writing Assistant)
 
 **FlashFlow** is an AI-powered writing assistant that refines and enhances your text using the power of **Gemini 1.5 Flash**. It provides intelligent, structured suggestions to improve grammar, spelling, punctuation, clarity, vocabulary, and tone — making writing easier and smarter.
@@ -97,8 +93,6 @@ NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
 NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
 NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
 ```
-
----
 
 ## 📁 Project Structure
 
