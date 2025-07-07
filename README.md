@@ -3,7 +3,7 @@ Here’s a complete and professional `README.md` for your **FlashFlow** project,
 ---
 
 ````markdown
-# ⚡ FlashFlow - AI Writing Assistant
+# ⚡ FlashFlow - (AI Writing Assistant)
 
 **FlashFlow** is an AI-powered writing assistant that refines and enhances your text using the power of **Gemini 1.5 Flash**. It provides intelligent, structured suggestions to improve grammar, spelling, punctuation, clarity, vocabulary, and tone — making writing easier and smarter.
 
